@@ -1,0 +1,288 @@
+body {
+  background-color: #ffffff;
+  
+  
+
+}
+
+.container {
+  width: 100%;
+  min-width: 200px;
+  height: auto;
+  margin: auto;
+}
+
+.header {
+  margin-top: 3px;
+  height: auto;
+  width: auto;
+  position: static;
+}
+
+img {
+  height: 29px;
+  width: 90px;
+  margin-left: 150px;
+  margin-top: auto;
+  position: static;
+}
+
+.btn {
+  border: none;
+  padding: 12px 24px;
+  border-radius: 24px;
+  font-size: 13px;
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+  cursor: pointer;
+  margin-top: auto;
+}
+
+.btn {
+  margin-left: 10px;
+}
+
+
+.fill {
+  background: #13183F;
+  color: rgba(255, 255, 255, 0.95);
+  filter: drop-shadow(0);
+  font-weight: bold;
+  transition: all .3s ease;
+  margin-left: 57vw;
+  height: 40px;
+  width: 140px;
+  margin-top: auto;
+}
+
+.fill:hover {
+  background-color: #666CA3;
+  transform: scale(1.125);
+  transition: all .3s ease;
+}
+
+.first-wrapper {
+  height: auto;
+  width: 42%;
+  margin-top: 50px;
+  margin-left: 80px;
+  position: static;
+  float: left;
+  padding-bottom: 50px;
+}
+
+.out {
+  background: rgba(247, 71, 128);
+  color: rgba(255, 255, 255, 0.95);
+  filter: drop-shadow(0);
+  font-weight: bold;
+  transition: all .3s ease;
+  height: 40px;
+  width: 140px;
+  margin-left: 10px;
+  margin-top: 5px;
+  position: absolute;
+}
+
+.out:hover {
+  background-color: #ffa7c3;
+  transform: scale(1.125);
+  border-color: rgba(255, 255, 255, 0.9);
+  filter: drop-shadow(0 10px 5px rgba(0, 0, 0, 0.125));
+  transition: all .3s ease;
+}
+
+section {
+  width: auto;
+  height: auto;
+}
+
+
+
+.pic-wrapper img {
+  width: 40%;
+  height: 500px;
+  margin-top: 0px;
+  margin-left: 100px;
+}
+
+.responsive-img {
+  width: 100%;
+  height: auto;
+  margin: auto;  
+}
+
+
+
+p {
+  color: #ffffff;
+  text-align: center;
+  font-size: x-large;
+  margin: 80px;
+  margin-left: 25px;
+  border: 3px;
+  width: 150px;
+}
+
+h1 {
+  color: #13183F;
+  font-size: 60px;
+  position: static;
+  font-family: 'Courier New', ;
+  border-radius: 3px solid black;
+}
+h2 {
+  color: #83869A;
+  font-size: medium;
+  padding: 8px;
+}
+h3 {
+  color: #13183F;
+  margin-top: 1px;
+  padding: 5px;
+
+}
+
+h4 {
+  color: #83869A;
+  font-size: medium;
+  padding: 10px;
+}
+
+h5 {
+  color: #F74780;
+  padding-left: 10px;
+}
+
+.content {
+  margin-top: 90px;
+  width: auto;
+  height: 900px;
+  background-color: #ffffff;
+  position: static;
+}
+
+.card {
+  width: auto;
+  height: 400px;
+  padding-left: 150px;
+  padding-right: 0px;
+  padding-top: 10px;
+  margin-left: 0px;
+}
+
+
+
+.second-wrapper {
+  background-color: #F02AA6;
+  border-radius: 15px;
+  height: 280px;
+  width: 260px;
+  margin: 18px;
+  float: left;
+}
+
+.banner-image {
+  height: 25px;
+  width: 28px;
+  margin-left: 10px;
+  margin-top: 0px;
+
+}
+
+.box1 {
+  background-color: #ffffff;
+  border: 2px;
+  border-style: solid;
+  border-color: whitesmoke;
+  border-radius: 15px;
+  width: 260px;
+  height: 280px;
+  margin: 15px;
+  float: left;
+}
+
+.box2 {
+  background-color: #ffffff;
+  border: 2px;
+  border-style: solid;
+  border-color: whitesmoke;
+  border-radius: 15px;
+  width: 260px;
+  height: 280px;
+  margin: 15px;
+  float: left;
+}
+
+.card2 {
+  width: auto;
+  height: 500px;
+  padding: 10px;
+  margin-inline: 0px;
+  padding-left: 170px;
+}
+
+.box3 {
+  background-color: #ffffff;
+  border: 2px;
+  border-style: solid;
+  border-color: whitesmoke;
+  border-radius: 15px;
+  height: 280px;
+  width: 260px;
+  margin: 4px;
+  float: left;
+}
+
+.box4 {
+  background-color: #ffffff;
+  border: 2px;
+  border-style: solid;
+  border-color: whitesmoke;
+  margin: 4px;
+  border-radius: 15px;
+  width: 260px;
+  height: 280px;
+  float: left;
+}
+
+.box5 {
+  background-color: #ffffff;
+  border: 2px;
+  border-style: solid;
+  border-color: whitesmoke;
+  margin: 4px;
+  margin-top: 10px;
+  border-radius: 15px;
+  width: 260px;
+  height: 280px;
+  float: left;
+}
+
+.footer-wrapper {
+  background: #13183F;
+  height: 70px;
+  width: 100%;
+  margin-bottom: auto;
+  float: left;
+}
+
+.footer {
+  background: #F02AA6;
+  color: rgba(255, 255, 255, 0.95);
+  filter: drop-shadow(0);
+  font-weight: bold;
+  transition: all .3s ease;
+ margin-right: 70px;
+  height: 40px;
+  width: 140px;
+  float: right;
+}
+
+.footer:hover {
+  background: #ffa7c3;
+  transform: scale(1.125);
+  transition: all .3s ease;
+}
+
+
